@@ -1,12 +1,16 @@
 {
   "assetsByChunkName": {
     "path---packages": [
-      "path---packages-37425141cab75456daa1.js",
-      "path---packages-37425141cab75456daa1.js.map"
+      "path---packages-5577188a0ded2a77de0d.js",
+      "path---packages-5577188a0ded2a77de0d.js.map"
     ],
     "path---guides-apps-setup": [
-      "path---guides-apps-setup-97a0b73a81235b31a1fb.js",
-      "path---guides-apps-setup-97a0b73a81235b31a1fb.js.map"
+      "path---guides-apps-setup-317c8b60203f8b9e61d8.js",
+      "path---guides-apps-setup-317c8b60203f8b9e61d8.js.map"
+    ],
+    "path---components-x-increment-demo-increment": [
+      "path---components-x-increment-demo-increment-893e321c19ae7e2a8911.js",
+      "path---components-x-increment-demo-increment-893e321c19ae7e2a8911.js.map"
     ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-eeb6c7eeea9bcd703ea5.js",
@@ -17,48 +21,72 @@
       "component---src-templates-blog-js-631898011a55c945cf0b.js.map"
     ],
     "path---components-x-teaser": [
-      "path---components-x-teaser-6cf87879fd783ad27537.js",
-      "path---components-x-teaser-6cf87879fd783ad27537.js.map"
+      "path---components-x-teaser-9a8c534f39935c9ed878.js",
+      "path---components-x-teaser-9a8c534f39935c9ed878.js.map"
     ],
     "path---": [
-      "path----0543e6a5ade9b2155086.js",
-      "path----0543e6a5ade9b2155086.js.map"
+      "path----a23ee9530baf1ebccf60.js",
+      "path----a23ee9530baf1ebccf60.js.map"
+    ],
+    "path---components-x-increment-demo-async": [
+      "path---components-x-increment-demo-async-dd063eebc24118ab0506.js",
+      "path---components-x-increment-demo-async-dd063eebc24118ab0506.js.map"
     ],
     "path---components": [
-      "path---components-d7623836700833aa49be.js",
-      "path---components-d7623836700833aa49be.js.map"
+      "path---components-7e41b998824e2c3fb186.js",
+      "path---components-7e41b998824e2c3fb186.js.map"
     ],
     "component---src-pages-packages-index-js": [
       "component---src-pages-packages-index-js-20a039ae3046da7cc593.js",
       "component---src-pages-packages-index-js-20a039ae3046da7cc593.js.map"
     ],
     "path---guides-components-cookbook-styling": [
-      "path---guides-components-cookbook-styling-b973db5de0b7c5114e14.js",
-      "path---guides-components-cookbook-styling-b973db5de0b7c5114e14.js.map"
+      "path---guides-components-cookbook-styling-bc7aa93aa4ea119a4861.js",
+      "path---guides-components-cookbook-styling-bc7aa93aa4ea119a4861.js.map"
     ],
     "path---components-x-teaser-migration-guide": [
-      "path---components-x-teaser-migration-guide-bf23999c5e47635e4185.js",
-      "path---components-x-teaser-migration-guide-bf23999c5e47635e4185.js.map"
+      "path---components-x-teaser-migration-guide-65e283171335318dad31.js",
+      "path---components-x-teaser-migration-guide-65e283171335318dad31.js.map"
     ],
     "component---src-pages-components-index-js": [
       "component---src-pages-components-index-js-b72b556f8f276e1d44e7.js",
       "component---src-pages-components-index-js-b72b556f8f276e1d44e7.js.map"
     ],
+    "path---components-x-teaser-demo-content-package": [
+      "path---components-x-teaser-demo-content-package-47545db3f5697b371c77.js",
+      "path---components-x-teaser-demo-content-package-47545db3f5697b371c77.js.map"
+    ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-a4b92450b8b539f1029d.js",
-      "component---src-layouts-index-js-a4b92450b8b539f1029d.js.map"
+      "component---src-layouts-index-js-5c2b32beaa15de4652e4.js",
+      "component---src-layouts-index-js-5c2b32beaa15de4652e4.js.map"
+    ],
+    "path---components-x-teaser-demo-opinion-piece": [
+      "path---components-x-teaser-demo-opinion-piece-63f40a3b903fb2fd10df.js",
+      "path---components-x-teaser-demo-opinion-piece-63f40a3b903fb2fd10df.js.map"
     ],
     "path---guides": [
-      "path---guides-b3606c2a51aa6088094e.js",
-      "path---guides-b3606c2a51aa6088094e.js.map"
+      "path---guides-a9993c3b88732639dfbd.js",
+      "path---guides-a9993c3b88732639dfbd.js.map"
     ],
     "path---index": [
       "path---index-e6760ef4abfc2ef11eb9.js",
       "path---index-e6760ef4abfc2ef11eb9.js.map"
     ],
     "path---guides-components-getting-started": [
-      "path---guides-components-getting-started-29813f10e2a7c6e96e46.js",
-      "path---guides-components-getting-started-29813f10e2a7c6e96e46.js.map"
+      "path---guides-components-getting-started-fee037b58e3b887ccda2.js",
+      "path---guides-components-getting-started-fee037b58e3b887ccda2.js.map"
+    ],
+    "component---src-templates-story-js": [
+      "component---src-templates-story-js-d6e139c945366f6e7df7.js",
+      "component---src-templates-story-js-d6e139c945366f6e7df7.js.map"
+    ],
+    "path---components-x-styling-demo-demo-styling": [
+      "path---components-x-styling-demo-demo-styling-a698f6c0b7d2aaa85228.js",
+      "path---components-x-styling-demo-demo-styling-a698f6c0b7d2aaa85228.js.map"
+    ],
+    "path---guides-apps-local": [
+      "path---guides-apps-local-71cc47c29c9ef7fc4f01.js",
+      "path---guides-apps-local-71cc47c29c9ef7fc4f01.js.map"
     ],
     "commons": [
       "commons-671105d32e26e18c07b1.js",
@@ -67,58 +95,74 @@
       "build-js-styles.css.map"
     ],
     "component---src-layouts-splash-js": [
-      "component---src-layouts-splash-js-d940d6f918ebcb7466d5.js",
-      "component---src-layouts-splash-js-d940d6f918ebcb7466d5.js.map"
+      "component---src-layouts-splash-js-c5f4228d73cbc8e6e8b0.js",
+      "component---src-layouts-splash-js-c5f4228d73cbc8e6e8b0.js.map"
+    ],
+    "path---components-x-teaser-demo-article": [
+      "path---components-x-teaser-demo-article-a908d4752e63f7268e19.js",
+      "path---components-x-teaser-demo-article-a908d4752e63f7268e19.js.map"
+    ],
+    "path---components-x-teaser-demo-paid-post": [
+      "path---components-x-teaser-demo-paid-post-7a9d3022c6c6315e1b67.js",
+      "path---components-x-teaser-demo-paid-post-7a9d3022c6c6315e1b67.js.map"
     ],
     "path---components-x-teaser-features": [
-      "path---components-x-teaser-features-5972b157e1e67c046557.js",
-      "path---components-x-teaser-features-5972b157e1e67c046557.js.map"
+      "path---components-x-teaser-features-4839be0daa273a87f295.js",
+      "path---components-x-teaser-features-4839be0daa273a87f295.js.map"
     ],
     "path---guides-components-setup": [
-      "path---guides-components-setup-d8d8587397768e565afc.js",
-      "path---guides-components-setup-d8d8587397768e565afc.js.map"
+      "path---guides-components-setup-1e661cd2314a8f718b65.js",
+      "path---guides-components-setup-1e661cd2314a8f718b65.js.map"
     ],
     "path---packages-x-engine": [
-      "path---packages-x-engine-e4b009fb0ebffa1f3a2e.js",
-      "path---packages-x-engine-e4b009fb0ebffa1f3a2e.js.map"
+      "path---packages-x-engine-08db059a530628613061.js",
+      "path---packages-x-engine-08db059a530628613061.js.map"
+    ],
+    "path---components-x-teaser-demo-top-story": [
+      "path---components-x-teaser-demo-top-story-df77d1bdf19f9a822dde.js",
+      "path---components-x-teaser-demo-top-story-df77d1bdf19f9a822dde.js.map"
     ],
     "path---components-x-interaction": [
-      "path---components-x-interaction-b91843833aba44ef96dc.js",
-      "path---components-x-interaction-b91843833aba44ef96dc.js.map"
+      "path---components-x-interaction-30a8321e19ee60b52c28.js",
+      "path---components-x-interaction-30a8321e19ee60b52c28.js.map"
     ],
     "path---guides-components-cookbook-composing-components": [
-      "path---guides-components-cookbook-composing-components-d88831f41e1b72482264.js",
-      "path---guides-components-cookbook-composing-components-d88831f41e1b72482264.js.map"
+      "path---guides-components-cookbook-composing-components-906e39ca02552d339551.js",
+      "path---guides-components-cookbook-composing-components-906e39ca02552d339551.js.map"
     ],
     "app": [
-      "app-bbd8bdcb657aa630e013.js",
+      "app-bc81b4d90af6b16781ef.js",
       "build-js-styles.css",
-      "app-bbd8bdcb657aa630e013.js.map",
+      "app-bc81b4d90af6b16781ef.js.map",
       "build-js-styles.css.map"
     ],
     "path---guides-components-conventions": [
-      "path---guides-components-conventions-5024514af1663f604e69.js",
-      "path---guides-components-conventions-5024514af1663f604e69.js.map"
+      "path---guides-components-conventions-5bb748c59f21e559d4d2.js",
+      "path---guides-components-conventions-5bb748c59f21e559d4d2.js.map"
+    ],
+    "path---components-x-teaser-demo-video": [
+      "path---components-x-teaser-demo-video-8f5f07b701d16a5b213c.js",
+      "path---components-x-teaser-demo-video-8f5f07b701d16a5b213c.js.map"
     ],
     "path---guides-documentation": [
-      "path---guides-documentation-84ec6cf0514bfb360d5e.js",
-      "path---guides-documentation-84ec6cf0514bfb360d5e.js.map"
+      "path---guides-documentation-7d9c38a41dc00f2b111c.js",
+      "path---guides-documentation-7d9c38a41dc00f2b111c.js.map"
     ],
     "path---guides-components-creating-a-component": [
-      "path---guides-components-creating-a-component-1b96627ee5aaa8985b58.js",
-      "path---guides-components-creating-a-component-1b96627ee5aaa8985b58.js.map"
+      "path---guides-components-creating-a-component-3d9b368dd13ff2ec53d9.js",
+      "path---guides-components-creating-a-component-3d9b368dd13ff2ec53d9.js.map"
     ],
     "path---components-x-styling-demo": [
-      "path---components-x-styling-demo-10d384a30e1eff9efe29.js",
-      "path---components-x-styling-demo-10d384a30e1eff9efe29.js.map"
+      "path---components-x-styling-demo-02d2347a4574193fdfc1.js",
+      "path---components-x-styling-demo-02d2347a4574193fdfc1.js.map"
     ],
     "path---packages-x-handlebars": [
-      "path---packages-x-handlebars-d5016a9a659ef5b123f1.js",
-      "path---packages-x-handlebars-d5016a9a659ef5b123f1.js.map"
+      "path---packages-x-handlebars-64ed4510e9829d1eead5.js",
+      "path---packages-x-handlebars-64ed4510e9829d1eead5.js.map"
     ],
     "path---guides-apps-getting-started": [
-      "path---guides-apps-getting-started-8ec4d354add7bbecb64b.js",
-      "path---guides-apps-getting-started-8ec4d354add7bbecb64b.js.map"
+      "path---guides-apps-getting-started-a29e3238d50e7ac4cac7.js",
+      "path---guides-apps-getting-started-a29e3238d50e7ac4cac7.js.map"
     ]
   }
 }
