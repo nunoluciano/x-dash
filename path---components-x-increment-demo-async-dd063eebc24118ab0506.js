@@ -1,2 +1,0 @@
-webpackJsonp([64752307168451],{385:function(n,t){n.exports={pathContext:{sitemap:{title:"Async",breadcrumbs:["Components","x-increment","Demos","Async"]},componentFullName:"@financial-times/x-increment",componentName:"x-increment",componentStory:"1",componentStyles:null,story:{title:"Async",data:{count:1,timeout:1e3,id:"base-increment-static-id"}}}}}});
-//# sourceMappingURL=path---components-x-increment-demo-async-dd063eebc24118ab0506.js.map
